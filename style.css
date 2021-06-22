@@ -1,0 +1,52 @@
+.navbar-brand{
+    color: #ff0707;
+}
+
+.seksyen1{
+    background-color: #110e0e;
+    padding: 7% 15% 7%;
+}
+
+.banner{
+    text-align: center;
+}
+
+.heading-car{
+    color: #ff0000;
+}
+
+.tulisanPutih{
+    color: rgb(255, 255, 255);
+}
+
+.seksyen2{
+    background-color: #d3d3d3;
+    padding: 5% 13% 5%;
+    text-align: center;
+}
+
+.icon{
+    color: #ec0909;
+    margin: 1rem;
+}
+
+.feature-box{
+    padding: 4.5%;
+}
+
+.seksyen4{
+    background-color: #d3d3d3;
+    padding: 5% 13% 5%;
+    text-align: center;
+}
+.seksyen5{
+    background-color: #5A6268;
+    padding: 5% 13% 5%;
+    text-align: left;
+    color: white;
+}
+.footer{
+    background-color: rgb(228, 228, 228);
+    padding: 2%;
+    text-align: center;
+}
